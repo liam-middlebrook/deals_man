@@ -1,0 +1,18 @@
+false
+University of Rochester
+Medical Center Parking Receipt
+601 Elmwood Avenue, PO Box 621
+Rochester, NY 14642
+
+Facility: Lot T3-Hospital Garage
+Cashier: Tai-Quan
+
+Print Date: 04/15/13 17:22:28
+
+Transient Exit (0 Days, 4 Hours, 44 Minutes)
+
+Fee                                    26.00
+
+Total                                  26.00
+
+Questions/Comments 585.318.3425

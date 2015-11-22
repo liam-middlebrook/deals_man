@@ -12,9 +12,9 @@ def main():
 
     receipts = [ f for f in listdir(receiptDir) if isfile(join(receiptDir, f))]
 
-    for i in range(20):
+    for i in range(5):
         failCount += display_receipt(receiptDir + random.choice(receipts))
-        if failCount >= 5:
+        if failCount >= 3:
             playSound("sorry_no_more_deals.ogg")
             return
     playSound("youre_a_deal_master.ogg")
