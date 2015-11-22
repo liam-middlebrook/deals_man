@@ -38,7 +38,7 @@ def display_receipt(fName):
         isDeal = fHnd.readline()
         receiptBody = fHnd.read()
 
-    isDeal = isDeal == "true"
+    isDeal = "true" in isDeal.lower()
 
     print(receiptBody)
     print("Is this a deal? (y/n)")
